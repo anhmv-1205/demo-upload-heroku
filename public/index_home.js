@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000/");
+const socket = io("https://anhblog.herokuapp.com");
 
 socket.on("server-send-list-user-information", (data) => {
     $("#list").html("");

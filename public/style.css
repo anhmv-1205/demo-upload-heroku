@@ -1,0 +1,25 @@
+#wrapper {
+    width: 520px;
+    margin: auto;
+}
+
+#information {
+    border: solid 1px gray;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#txtName, #txtEmail, #txtPhone {}
+#listUsers {
+    text-align: center;
+}
+
+.student {
+    border-bottom: solid 1px #aeaff7;
+    padding: 10px;
+}
+
+.row-1 span{
+    color: blue;
+    font-weight: bold;
+}
